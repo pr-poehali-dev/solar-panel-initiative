@@ -42,7 +42,7 @@ export default function Featured() {
             </div>
           ))}
         </div>
-        <a href="#play" className="bg-orange-500 text-white border border-orange-500 px-4 py-2 text-sm transition-all duration-300 hover:bg-white hover:text-orange-500 cursor-pointer w-fit uppercase tracking-wide font-bold">
+        <a href="/game" className="bg-orange-500 text-white border border-orange-500 px-4 py-2 text-sm transition-all duration-300 hover:bg-white hover:text-orange-500 cursor-pointer w-fit uppercase tracking-wide font-bold">
           Играть бесплатно
         </a>
       </div>
